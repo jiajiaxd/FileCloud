@@ -11,3 +11,4 @@ if [ -n "$result" ]; then
 else
 	echo "The latest commit has no deletions."
 fi
+
